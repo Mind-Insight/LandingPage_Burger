@@ -156,7 +156,6 @@ body {
   left: calc(100% - 991px);
 }
 
-
 .why {
   background-image: url("../images/whybg.png");
   background-position: top center;
@@ -194,7 +193,6 @@ body {
   padding-bottom: 180px;
 }
 
-
 .products-items {
   display: grid;
   grid-template-columns: repeat(3, 384px);
@@ -204,7 +202,7 @@ body {
 
 .products-item {
   padding: 30px;
-  background: #211A16;
+  background: #211a16;
   border: 1px solid #353535;
   border-radius: 16px;
 }
@@ -278,7 +276,7 @@ button.products-button {
 }
 
 .order-form {
-  background: #211A16;
+  background: #211a16;
   border: 1px solid #353535;
   border-radius: 16px;
   margin-top: 60px;
