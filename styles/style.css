@@ -136,7 +136,7 @@ body {
 }
 
 .main-title {
-  font-family: "Merriweather" sans-serif;
+  font-family: "Merriweather", sans-serif;
   font-size: 120px;
   line-height: 130%;
   letter-spacing: 0.03em;
@@ -244,7 +244,7 @@ body {
   color: #757575;
 }
 
-button.products-button {
+.button.product-button {
   display: flex;
   align-items: center;
   justify-content: center;
